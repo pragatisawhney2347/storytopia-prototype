@@ -51,3 +51,6 @@ scalability, or public deployment.
 
 API keys and sensitive configuration values are excluded from this repository.
 To run the project locally, you will need to provide your own API credentials.
+
+*A compiled APK file for app demonstration has been provided.
+*The source code has been added for further analysis.
